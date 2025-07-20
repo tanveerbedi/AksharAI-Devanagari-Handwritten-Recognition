@@ -119,20 +119,17 @@ Browser will open a GUI where you can draw a character and view its predicted cl
 
 ---
 
+## 📸 Application Screenshot
+
+![App Screenshot](<img width="1577" height="873" alt="image" src="https://github.com/user-attachments/assets/3a98c500-1a5f-4579-9bff-a511723e2e6d" />)
+
+---
+
 ## 👨‍💻 Author
 
 **Tanveer Singh Bedi**
 Machine Learning and Data Science Practitioner
 [LinkedIn](https://www.linkedin.com/in/tanveer-singh-bedi-a8b811177) • [GitHub](https://github.com/tanveerbedi)
-
-
----
-
-## 📸 Application Screenshot
-
-![App Screenshot](cfbfc7d3-740f-4507-ad99-8d3ae5d8bb8c.png)
-
-*Figure: The Streamlit interface showing the prediction result for a handwritten Devanagari character.*
 
 ---
 
