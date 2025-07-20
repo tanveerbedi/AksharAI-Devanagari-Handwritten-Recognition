@@ -119,12 +119,6 @@ Browser will open a GUI where you can draw a character and view its predicted cl
 
 ---
 
-## 📸 Application Screenshot
-
-![App Screenshot](<img width="1577" height="873" alt="image" src="https://github.com/user-attachments/assets/3a98c500-1a5f-4579-9bff-a511723e2e6d" />)
-
----
-
 ## 👨‍💻 Author
 
 **Tanveer Singh Bedi**
