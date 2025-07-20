@@ -122,7 +122,9 @@ Browser will open a GUI where you can draw a character and view its predicted cl
 ## 👨‍💻 Author
 
 **Tanveer Singh Bedi**
+
 Machine Learning and Data Science Practitioner
+
 [LinkedIn](https://www.linkedin.com/in/tanveer-singh-bedi-a8b811177) • [GitHub](https://github.com/tanveerbedi)
 
 ---
