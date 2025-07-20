@@ -124,8 +124,6 @@ Browser will open a GUI where you can draw a character and view its predicted cl
 
 ![App Screenshot](https://github.com/tanveerbedi/AksharAI-Devanagari-Handwritten-Recognition/blob/f4d53876bd589bfc896d65b8c930579488048830/Interface%20Glimpse.png)
 
-*Figure: The Streamlit interface showing the prediction result for a handwritten Devanagari character.*
-
 ---
 
 ## 👨‍💻 Author
